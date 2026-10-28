@@ -1,0 +1,6 @@
+{
+  "name": "地政節 11公分測量大挑戰",
+  "description": "慶祝11月11日地政節！挑戰徒手精準畫出11公分界址線，測試你的測量師直覺與精準度！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
